@@ -28,7 +28,7 @@ function startQuiz(category) {
   resultContainer.classList.add('hidden');
   showQuestion();// Diplays the first question
 }
-
+// Check showQuestion
 function showQuestion() {
 // get the current question obj
   const question = currentCategory[currentQuestionIndex];
@@ -41,7 +41,7 @@ function showQuestion() {
     optionsElement.appendChild(button);
   });
 }
-
+// Check Answer
 function checkAnswer(selectedOption) {
   const question = currentCategory[currentQuestionIndex];
   // check if selected option is the correct answer
@@ -65,7 +65,7 @@ function checkAnswer(selectedOption) {
   }
 }
 
-
+// Check endQuiz
 function endQuiz() {
     // hide the quiz and show the results
     quizContainer.classList.remove('visible');
