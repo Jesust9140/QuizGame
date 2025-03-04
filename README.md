@@ -27,5 +27,6 @@
 ---
 
 links that helped: 
--[Youtube guide to scroll through](https://www.youtube.com/watch?v=SXb5LN_opbA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2)
--[Free Sound Effects](https://freesound.org/people/GabrielAraujo/sounds/242503/)
+[Youtube guide to scroll through](https://www.youtube.com/watch?v=SXb5LN_opbA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2)
+[Free Sound Effects](https://freesound.org/people/GabrielAraujo/sounds/242503/)
+[Emojis](https://emojipedia.org/desktop-computer)
