@@ -27,6 +27,5 @@
 ---
 
 links that helped: 
-[While you read the Moz.dev blog](https://www.youtube.com/watch?v=SXb5LN_opbA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2)
-[Free Sound Effects](https://freesound.org/people/GabrielAraujo/sounds/242503/)
-[https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-[Youtube guide to scroll through](https://www.youtube.com/watch?v=SXb5LN_opbA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2)
+-[Free Sound Effects](https://freesound.org/people/GabrielAraujo/sounds/242503/)
