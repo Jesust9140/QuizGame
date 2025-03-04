@@ -22,7 +22,7 @@
      - SSD
    - Correct Answer: x
 
-## Try it out for yourself and see what else you could get right!
+## Try it out for yourself and see what else you could get right!(https://jesust9140.github.io/QuizGame/)
 
 ---
 
