@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PC Quiz Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🖥️ PC Quiz Game</h1>
+    <div class="instructions">
+      <p>Choose a category and answer the questions to test your PC knowledge!</p>
+    </div>
+    <div class="category-select">
+      <h2>Choose a Category:</h2>
+      <button id="pcPartsBtn">PC Parts</button>
+      <button id="pcQuestionsBtn">PC Questions</button>
+    </div>
+    <div class="quiz-container hidden">
+      <h2 id="question"></h2>
+      <div id="options"></div>
+      <p id="score">Score: 0</p>
+    </div>
+    <div class="result hidden">
+      <h2 id="resultMessage"></h2>
+      <button id="playAgainBtn">Play Again</button>
+    </div>
+    <audio id="correctSound" src="/sounds/correct.mp3"></audio>
+    <audio id="wrongSound" src="/sounds/wrong.mp3"></audio>
+  </div>
+  <script src="/Js /data.js"></script>
+  <script src="/Js /script.js"></script>
+</body>
+</html>
